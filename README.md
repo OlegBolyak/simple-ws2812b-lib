@@ -1,2 +1,3 @@
 # simple-ws2812b-lib
-library for address led strip
+Library ws2812b for STM32f1
+
