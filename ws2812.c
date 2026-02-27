@@ -122,42 +122,5 @@ void gradient_peach(){
 
 	}
 }
-void gradient1(){
-	for(uint8_t k=0; k<20; k++){
-		//Dark red
-		set_color(0x8B, 0x00, 0x00);
-	}
-	for(uint8_t k=0; k<20; k++){
-			//Red
-		set_color(0xFF, 0x00, 0x00);
 
-		}
-	for(uint8_t k=0; k<20; k++){
-			//Dark red (GRB HEX code - 0x008B00)
-			set_color(0xFF,0x63,0x47);
-		}
-	for(uint8_t k=0; k<20; k++){
-			//Dark red (GRB HEX code - 0x008B00)
-			set_color(0xFF, 0x45, 0x00);
-		}
-	for(uint8_t k=0; k<20; k++){
-			//Dark red (GRB HEX code - 0x008B00)
-			set_color(0xD2,0x69,0x1E);
-		}
-	for(uint8_t k=0; k<20; k++){
-			//Dark red (GRB HEX code - 0x008B00)
-			set_color(0xFF, 0x8C, 0x00);
-		}
-	for(uint8_t k=0; k<20; k++){
-			//Dark red (GRB HEX code - 0x008B00)
-			set_color(0x80, 0x80, 0x00);
-		}
-	for(uint8_t k=0; k<20; k++){
-			//Dark red (GRB HEX code - 0x008B00)
-			set_color(0x7F, 0xFF, 0x00);
-		}
-	for(uint8_t k=0; k<20; k++){
-			//Dark red (GRB HEX code - 0x008B00)
-			set_color(0x00,0xFA,0x9A);
-		}
-}
+
